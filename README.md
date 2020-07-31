@@ -1,6 +1,8 @@
 # Carrom-Playing-Bot
 ## Abstract
 - Carrom is a cool game to play with hand,but on other hand designing a machine to play it is pretty challenging. We have made a bot that can put the coins in the holes by first detecting them through image processing and then deciding which coin to be put in hole i.e most easy to put (by a sophisticated algorithm).
+![](https://github.com/Keshav242/Carrom-Playing-Bot/blob/master/Images%20and%20Videos/Images/visualyzing%20circles.jpg)
+![](https://github.com/Keshav242/Carrom-Playing-Bot/blob/master/Images%20and%20Videos/Images/printing%20shot.jpg)
 - After the decision is made the mechanical model controlled through aurdino is used to flick the striker.This mechaical model was on a lead screw arrangement for lateral movement along egde of board and the flicker was attached to a stepper motor to shoot the striker.
 ## Mechanical Aspect
 ![](https://github.com/Keshav242/Carrom-Playing-Bot/blob/master/Images%20and%20Videos/Images/solidworks%20model.PNG)
