@@ -8,6 +8,15 @@
 - Lnear motion is provided by the lead screw mechanism connected to DC Motor and Encoder.
 - The weight of the system is supported by the Linear Rail Rod with Linear Bearing.
 - There is two type of rotatory motions, one parallel to board for the angle of hitting and second perpendicular to the board for the purpose of hitting the strikerboth provided by the stepper motors.
+## Cost Structure
+| Materials  | Cost(INR) |
+| ------------- | ------------- |
+| Lead Screw with nut | 700 |
+| Arduino UNO  | 500 |
+| 2 Motor Driver  | 500 |
+| coupling material | 250 |
+| carrom board | 360 |
+| Total | 2310 |
 ## Limitations
 - If we define 4 regions on the board formed by intersection of two lines joining opposite pockets. If the coin is present in one of the 4 regions farthest from striking position
 ,straight head on shot will fail.
