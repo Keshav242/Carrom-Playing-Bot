@@ -1,6 +1,7 @@
 # Carrom-Playing-Bot
-## Applications
-- 
+## Abstract
+- Carrom is a cool game to play with hand,but on other hand designing a machine to play it is pretty challenging. We have made a bot that can put the coins in the holes by first detecting them through image processing and then deciding which coin to be put in hole i.e most easy to put (by a sophisticated algorithm).
+- After the decision is made the mechanical model controlled through aurdino is used to flick the striker.This mechaical model was on a lead screw arrangement for lateral movement along egde of board and the flicker was attached to a stepper motor to shoot the striker.
 ## Limitations
 - If we define 4 regions on the board formed by intersection of two lines joining opposite pockets. If the coin is present in one of the 4 regions farthest from striking position
 ,straight head on shot will fail.
