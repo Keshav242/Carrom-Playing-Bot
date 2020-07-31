@@ -17,7 +17,7 @@
 ## Future Improvement
 - The current Bot takes shots so as to have head on collision between the striker and coin. If it takes into account the radii of coins and striker it can manage to play oblique shots.
 - A further optimization of the current bot is to take rebound shots effictively on the carrom board.
-- We can futher include the reltion between length and power of shots.
+- We can futher include the relation between length and power of shots.
 - There is a good possibility of introduction of supervised Machine learning. So the bot improves itself with time.
 ## Team Members
 - Akash Deep
